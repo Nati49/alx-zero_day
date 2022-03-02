@@ -1,2 +1,2 @@
 #!/bin/bashi
-hello
+echo"The school is open!"
